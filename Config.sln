@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm", "WinForm\WinForm.csproj", "{FD726ACC-20E6-43AE-9AF9-6AC2BE9E0AF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{3E02DAF4-1A7F-49A8-A14B-F830F945E018}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD726ACC-20E6-43AE-9AF9-6AC2BE9E0AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD726ACC-20E6-43AE-9AF9-6AC2BE9E0AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD726ACC-20E6-43AE-9AF9-6AC2BE9E0AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD726ACC-20E6-43AE-9AF9-6AC2BE9E0AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E02DAF4-1A7F-49A8-A14B-F830F945E018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E02DAF4-1A7F-49A8-A14B-F830F945E018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E02DAF4-1A7F-49A8-A14B-F830F945E018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E02DAF4-1A7F-49A8-A14B-F830F945E018}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
